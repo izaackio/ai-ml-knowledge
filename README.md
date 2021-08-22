@@ -3,7 +3,7 @@
 ## General AI Topics
 
 ## Machine-Learning
-
+* https://svpino.com/a-machine-learning-roadmap-c41b0237063c - ML learning roadmap
 ## Deep-Learning
 
 
