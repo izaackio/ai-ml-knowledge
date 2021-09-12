@@ -11,6 +11,10 @@
 
 ## Learning Resources
 
-## ML Information
+## ML Courses
+* https://developers.google.com/machine-learning/crash-course - Google Machine-Learning Crash Course
+* https://www.coursera.org/learn/machine-learning - Andrew Ng Machine-Learning Course from Stanford
+
+## ML Compilations
 * https://github.com/eugeneyan/applied-ml - Great compilation by Eugeneyan on multiple ML-topics
 
