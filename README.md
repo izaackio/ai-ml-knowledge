@@ -4,6 +4,9 @@
 
 ## Machine-Learning
 * https://svpino.com/a-machine-learning-roadmap-c41b0237063c - ML learning roadmap
+* https://developers.google.com/machine-learning/glossary - ML Glossary
+* https://developers.google.com/machine-learning/guides/rules-of-ml/ - Rules of ML
+* 
 ## Deep-Learning
 
 
