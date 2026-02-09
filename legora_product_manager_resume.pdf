@@ -1,0 +1,211 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Length 3476 >>
+stream
+BT
+/F1 11 Tf
+72 720 Td
+(ISAC ANDERSSON) Tj
+0 -13 Td
+(Stockholm, Sweden | +46 70 210 69 58 | isac.andersson1994@gmail.com |) Tj
+0 -13 Td
+(https://www.linkedin.com/in/isacandersson/) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(PRODUCT MANAGER | B2B SAAS | DATA PLATFORMS | AI-NATIVE WORKFLOWS) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(SUMMARY) Tj
+0 -13 Td
+(Product Manager with 6+ years in regulated, high-stakes B2B environments, building data) Tj
+0 -13 Td
+(platforms, APIs, and developer tooling used by internal teams and external partners.) Tj
+0 -13 Td
+(Proven track record owning roadmaps, translating customer needs into product requirements,) Tj
+0 -13 Td
+(and delivering reliable, scalable systems. Strong technical depth \(cloud, data) Tj
+0 -13 Td
+(infrastructure, observability\) paired with outcome-driven execution, stakeholder) Tj
+0 -13 Td
+(alignment, and fast, iterative delivery. Motivated to build AI-native products that) Tj
+0 -13 Td
+(improve professional workflows.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(CORE SKILLS) Tj
+0 -13 Td
+(Product Strategy & Execution: Roadmaps, OKRs, MVP sequencing, outcome metrics, discovery,) Tj
+0 -13 Td
+(prioritization, launch and change management) Tj
+0 -13 Td
+(Customer & Stakeholder Alignment: Enterprise stakeholders, cross-functional leadership,) Tj
+0 -13 Td
+(requirements definition, feedback loops) Tj
+0 -13 Td
+(B2B Platform Product: APIs, SDKs, self-serve onboarding, authN/authZ,) Tj
+0 -13 Td
+(versioning/deprecation, documentation standards) Tj
+0 -13 Td
+(Data & Infrastructure: GCP \(BigQuery\), AWS, Azure, Kafka, Airflow, Kubernetes, Snowflake,) Tj
+0 -13 Td
+(Databricks) Tj
+0 -13 Td
+(Reliability & Quality: SLO/SLI, incident management, observability, data governance,) Tj
+0 -13 Td
+(lineage, data contracts) Tj
+0 -13 Td
+(Tools: Python, SQL, dbt/Dataform, Looker/Tableau, Figma, Claude Code, Cursor) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(PROFESSIONAL EXPERIENCE) Tj
+0 -13 Td
+(Goldman Sachs — Stockholm, Sweden) Tj
+0 -13 Td
+(Product Manager, Core Engineering, Market Data | Jul 2025 – Present) Tj
+0 -13 Td
+(• Own product vision and roadmap for real-time market data platforms serving trading,) Tj
+0 -13 Td
+(sales, risk, and reporting across global regions.) Tj
+0 -13 Td
+(• Led delivery of developer-facing APIs, Python/Java SDKs, and self-serve workflows that) Tj
+0 -13 Td
+(improved discovery and integration for quant and engineering users.) Tj
+0 -13 Td
+(• Partnered with engineering to prioritize reliability, scalability, and service quality,) Tj
+0 -13 Td
+(ensuring latency and resilience targets are met.) Tj
+0 -13 Td
+(• Launched a cloud-native, multi-tenant pricing selection platform, tripling tenants in 6) Tj
+0 -13 Td
+(months and increasing priced securities 10x while reducing operational cost.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(SEB Group — Stockholm, Sweden) Tj
+0 -13 Td
+(Product Manager, LC&FI, Trading & Custody Data Services | May 2023 – Jul 2025) Tj
+0 -13 Td
+(• Owned B2B data and API platforms supporting trading and custody products for 1M+ clients) Tj
+0 -13 Td
+(across retail and institutional segments.) Tj
+0 -13 Td
+(• Defined and delivered REST/GraphQL APIs for internal teams and external partners,) Tj
+0 -13 Td
+(reducing integration time by weeks.) Tj
+0 -13 Td
+(• Product Owner for two engineering squads \(~18 engineers\), aligning delivery with) Tj
+0 -13 Td
+(business goals, compliance, and regulatory requirements.) Tj
+0 -13 Td
+(• Led migration to GCP and built a governed analytics and data distribution platform using) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 1928 >>
+stream
+BT
+/F1 11 Tf
+72 720 Td
+(BigQuery for scalable access.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(SEB Group — Stockholm, Sweden) Tj
+0 -13 Td
+(Technical Product Manager, Trading Data Platform | Aug 2022 – May 2023) Tj
+0 -13 Td
+(• Unified roadmaps across trading, risk, and reporting squads; prioritized initiatives) Tj
+0 -13 Td
+(based on impact and learning.) Tj
+0 -13 Td
+(• Shipped enterprise-grade data products integrating 10+ critical sources, enabling) Tj
+0 -13 Td
+(advanced analytics for FICC quant teams.) Tj
+0 -13 Td
+(• Delivered the first production-ready governed data product with lineage, quality) Tj
+0 -13 Td
+(controls, and formal data-sharing agreements.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(SEB Group — Stockholm, Sweden) Tj
+0 -13 Td
+(Solution Architect, Equities Trading | Aug 2019 – Aug 2022) Tj
+0 -13 Td
+(• Defined architectural roadmap for equities trading platforms, aligning performance) Tj
+0 -13 Td
+(requirements with regulatory traceability.) Tj
+0 -13 Td
+(• Designed a new data and analytics platform enabling decommissioning of legacy warehouses) Tj
+0 -13 Td
+(and improved self-service access.) Tj
+0 -13 Td
+(• Authored cloud migration strategy for 100+ trading applications adopted as reference) Tj
+0 -13 Td
+(direction by management.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(EDUCATION) Tj
+0 -13 Td
+(Umeå University — Umeå, Sweden) Tj
+0 -13 Td
+(B.Sc. Systems Science | Aug 2016 – Jun 2019) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(CERTIFICATIONS) Tj
+0 -13 Td
+(Google Cloud Architect, Data Engineer & Digital Leader | Sep 2020 – Sep 2021) Tj
+0 -13 Td
+(Microsoft Azure Fundamentals | Nov 2020) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(PROJECTS) Tj
+0 -13 Td
+(Figureen \(ongoing\)) Tj
+0 -13 Td
+(• Built a full-stack prototype \(Next.js, SQL, Cloudflare\) for a collectibles marketplace;) Tj
+0 -13 Td
+(handled data model, API design, auth, and UI.) Tj
+0 -13 Td
+(• Demonstrates end-to-end product delivery from concept to working MVP.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 3 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000005629 00000 n 
+0000003649 00000 n 
+0000005881 00000 n 
+0000005755 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+5951
+%%EOF
